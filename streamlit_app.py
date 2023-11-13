@@ -1,4 +1,4 @@
-# Streamlit App: https://appapp-gfc9hqepsr88pv2ibju2lz.streamlit.app
+# Streamlit App: https://healthydinerappapp-f5mikckkx3wcnytlsntxyu.streamlit.app
 
 import streamlit
 
